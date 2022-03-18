@@ -1,7 +1,7 @@
 # Weather Forecast Websites
 ![image info](./src/components/pictures/main.png)
 
-You can find the live website at https://nara-eam.herokuapp.com
+You can find the live website at 
 
 ## Frameworks and packages used
 
@@ -18,21 +18,21 @@ You can find the live website at https://nara-eam.herokuapp.com
 # Windows Setup Guide
 1. <b>Search 'Power Shell' in search box, and open the Power Shell. </b>
 2. cd .\Desktop\
-3. git clone https://github.com/Sameam/my_resume.git
+3. git clone https://github.com/Sameam/weather-forecast.git
 4. npm install
 5. npm start **(This will start the web run on your Machine Local Host)**
 
 # MacOS Setup Guide
 1. <b>Hold 'command + space' and search for 'Terminal', and open the Terminal </b>
 2. cd ~/Desktop
-3. git clone https://github.com/Sameam/my_resume.git
+3. git clone https://github.com/Sameam/weather-forecast.git
 4. npm install
 5. npm start **(This will start the web run on your Machine Local Host)**
 
 # Linux Setup Guide
 1. <b>Open the Terminal </b>
 2. cd ~/Desktop
-3. git clone https://github.com/Sameam/my_resume.git
+3. git clone https://github.com/Sameam/weather-forecast.git
 4. cd my_resume
 
 **Step 4 and 5 is needed if you Linux system is not update with the newest package yet**
