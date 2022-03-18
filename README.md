@@ -18,21 +18,23 @@
 1. <b>Search 'Power Shell' in search box, and open the Power Shell. </b>
 2. cd .\Desktop\
 3. git clone https://github.com/Sameam/weather-forecast.git
-4. npm install
-5. npm start **(This will start the web run on your Machine Local Host)**
+4. cd weather-forecast
+5. npm install
+6. npm start **(This will start the web run on your Machine Local Host)**
 
 # MacOS Setup Guide
 1. <b>Hold 'command + space' and search for 'Terminal', and open the Terminal </b>
 2. cd ~/Desktop
 3. git clone https://github.com/Sameam/weather-forecast.git
-4. npm install
-5. npm start **(This will start the web run on your Machine Local Host)**
+4. cd weather-forecast
+5. npm install
+6. npm start **(This will start the web run on your Machine Local Host)**
 
 # Linux Setup Guide
 1. <b>Open the Terminal </b>
 2. cd ~/Desktop
 3. git clone https://github.com/Sameam/weather-forecast.git
-4. cd my_resume
+4. cd weather-forecast
 
 **Step 4 and 5 is needed if you Linux system is not update with the newest package yet**
 
