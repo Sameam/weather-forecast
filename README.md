@@ -1,7 +1,6 @@
 # Weather Forecast Websites
 ![image info](./src/components/pictures/main.png)
 
-You can find the live website at 
 
 ## Frameworks and packages used
 
